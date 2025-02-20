@@ -1,0 +1,2 @@
+/Users/mac2/Documents/testing projects/attendance_task/android/app/.cxx/Debug/3o28153d/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/mac2/Documents/testing projects/attendance_task/android/app/.cxx/Debug/3o28153d/arm64-v8a/CMakeFiles/rebuild_cache.dir

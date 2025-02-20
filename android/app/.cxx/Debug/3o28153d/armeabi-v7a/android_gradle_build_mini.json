@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/mac2/Documents/FlutterSDKFile/3.29.0/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac2/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/mac2/Documents/testing projects/attendance_task/android/app/.cxx/Debug/3o28153d/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac2/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/mac2/Documents/testing projects/attendance_task/android/app/.cxx/Debug/3o28153d/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
